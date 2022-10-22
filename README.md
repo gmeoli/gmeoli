@@ -16,9 +16,8 @@
 				</a>
 			</td>
 			<td>
-				<a href="Tel:00393404773784">
-					<img src="./icons/mobile.png" alt="Mobile logo" width="25" height="25">
-				</a>
+				<img src="./icons/mobile.png" alt="Mobile logo" width="25" height="25">
+				+39 340 4773784
 			</td>
 		</tr>
 	</table>
