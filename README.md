@@ -15,10 +15,6 @@
 					<img src="./icons/gmail.png" alt="Gmail logo" width="25" height="25">
 				</a>
 			</td>
-			<td>
-				<img src="./icons/mobile.png" alt="Mobile logo" width="25" height="25">
-				+39 340 4773784
-			</td>
 		</tr>
 	</table>
 <div align="center">
