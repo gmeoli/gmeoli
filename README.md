@@ -5,7 +5,7 @@
 
 	<table>
 		</tr>
-			<td style="border:0px!important>
+			<td style="border:0px!important;">
 				Contatti 
 			</td>
 			<td>
