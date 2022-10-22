@@ -5,10 +5,13 @@
 - ⌨️ Al momento sto studiando C, C++, React, HTML, Virtual machines
 - 📫 <h3>Contattami</h3> <br>                    
 <a href="https://www.linkedin.com/in/guido-meoli/">
-	<img src="./icons/linkedin.png" alt="Linkedin logo">
+	<img src="./icons/linkedin.png" alt="Linkedin logo" width="25" height="25">
 </a>
 <a href="mailto:guidomeoli94@gmail.com">
-	<img src="./icons/gmail.png" alt="Gmail logo">
+	<img src="./icons/gmail.png" alt="Gmail logo" width="25" height="25">
+</a>
+<a href="tel:+393404773784">
+	<img src="./icons/mobile.webp" alt="Gmail logo" width="25" height="25">
 </a>
 <div align="center">
 	<table>
