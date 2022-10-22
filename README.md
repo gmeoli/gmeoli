@@ -5,9 +5,7 @@
 
 	<table>
 		</tr>
-			<td>
-				Contatti 
-			</td>
+				<b>Contatti</b>
 			<td>
 				<a href="https://www.linkedin.com/in/guido-meoli/" target=”_blank”>
 					<img src="./icons/linkedin.png" alt="Linkedin logo" width="25" height="25">
