@@ -2,7 +2,7 @@
 
 - 👋 Ciao! Sono Guido Meoli (aka gmeoli)
 - 🖥 Attualmente sono uno studente della LUISS - Ecole42 in Roma
-- ⌨️ Al momento sto studiando C, C++, React, HTML, Virtual machines<br>
+- ⌨️ Al momento sto studiando C, C++, React, HTML, Virtual machines<br>nvg
 - 📫 Contattami                 
 <a href="https://www.linkedin.com/in/guido-meoli/">
 	<img src="./icons/linkedin.png" alt="Linkedin logo" width="25" height="25">
