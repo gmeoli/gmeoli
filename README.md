@@ -4,6 +4,7 @@
 		<tr>
 			<b>Contatti</b>
 		</tr>
+		<tr>
 			<td>
 				<a href="https://www.linkedin.com/in/guido-meoli/">
 					<img src="./icons/linkedin.png" alt="Linkedin logo" width="25" height="25">
