@@ -16,7 +16,7 @@
 				</a>
 			</td>
 			<td>
-				<a href="tel:+393404773784">
+				<a href="tel:00393404773784">
 					<img src="./icons/mobile.png" alt="Mobile logo" width="25" height="25">
 				</a>
 			</td>
