@@ -6,21 +6,19 @@
 	<table>
 		</tr>
 				<b>Contatti</b>
-			<td>
+	
 				<a href="https://www.linkedin.com/in/guido-meoli/" target=”_blank”>
 					<img src="./icons/linkedin.png" alt="Linkedin logo" width="25" height="25">
 				</a>
-			</td>
-			<td>
+
 				<a href="mailto:guidomeoli94@gmail.com">
 					<img src="./icons/gmail.png" alt="Gmail logo" width="25" height="25">
 				</a>
-			</td>
-			<td>
+
 				<a href="tel:00393404773784">
 					<img src="./icons/mobile.png" alt="Mobile logo" width="25" height="25">
 				</a>
-			</td>
+
 		</tr>
 	</table>
 <div align="center">
