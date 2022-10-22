@@ -1,31 +1,54 @@
-# Salve a tutti!!! 👋
+# Benvenuti! 
+<div align="end">
+	<table>
+		<tr>
+			<b>Contatti</b>
+		</tr>
+			<td>
+				<a href="https://www.linkedin.com/in/guido-meoli/">
+					<img src="./icons/linkedin.png" alt="Linkedin logo" width="25" height="25">
+				</a>
+			</td>
+			<td>
+				<a href="mailto:guidomeoli94@gmail.com">
+					<img src="./icons/gmail.png" alt="Gmail logo" width="25" height="25">
+				</a>
+			</td>
+			<td>
+				<a href="tel:+393404773784">
+					<img src="./icons/mobile.png" alt="Mobile logo" width="25" height="25">
+				</a>
+			</td>
+		</tr>
+	</table>
+</div>
 
 - 👋 Ciao! Sono Guido Meoli (aka gmeoli)
 - 🖥 Attualmente sono uno studente della LUISS - Ecole42 in Roma
 - ⌨️ Al momento sto studiando C, C++, React, HTML, Virtual machines<br>
 
 <div align="center">
-<table>
-	<tr>
-		<b>Contatti</b>
-	</tr>
-		<td>
-			<a href="https://www.linkedin.com/in/guido-meoli/">
-				<img src="./icons/linkedin.png" alt="Linkedin logo" width="25" height="25">
-			</a>
-		</td>
-		<td>
-			<a href="mailto:guidomeoli94@gmail.com">
-				<img src="./icons/gmail.png" alt="Gmail logo" width="25" height="25">
-			</a>
-		</td>
-		<td>
-			<a href="tel:+393404773784">
-				<img src="./icons/mobile.png" alt="Mobile logo" width="25" height="25">
-			</a>
-		</td>
-	</tr>
-</table>
+	<table>
+		<tr>
+			<b>Contatti</b>
+		</tr>
+			<td>
+				<a href="https://www.linkedin.com/in/guido-meoli/">
+					<img src="./icons/linkedin.png" alt="Linkedin logo" width="25" height="25">
+				</a>
+			</td>
+			<td>
+				<a href="mailto:guidomeoli94@gmail.com">
+					<img src="./icons/gmail.png" alt="Gmail logo" width="25" height="25">
+				</a>
+			</td>
+			<td>
+				<a href="tel:+393404773784">
+					<img src="./icons/mobile.png" alt="Mobile logo" width="25" height="25">
+				</a>
+			</td>
+		</tr>
+	</table>
 	<table>
 		<tr>
 			<b>My GitHub stats</b>
