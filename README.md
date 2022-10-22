@@ -24,16 +24,6 @@
 	</table>
 	<table>
 		<tr>
-			<b>My 42 stats</b></br>
-		</tr>
-		<tr>
-			<a href="https://github.com/gmeoli">
-				<img src="https://badge42.vercel.app/api/v2/cl3i4c6rm003509meco00h0bc/stats?cursusId=21&coalitionId=126" alt="dripanuc's 42 stats" />
-			</a>
-		</tr>
-	</table>
-	<table>
-		<tr>
 			<b></b></br>
 		</tr>
 	</table>
