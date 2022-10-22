@@ -1,4 +1,4 @@
-# Hi there 👋
+# Salve a tutti!!! 👋
 
 - 👋 Ciao! Sono Guido Meoli (aka gmeoli)
 - 🖥 Attualmente sono uno studente della LUISS - Ecole42 in Roma
