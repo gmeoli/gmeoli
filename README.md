@@ -4,8 +4,8 @@
 - ⌨️ Al momento sto studiando C, C++, React, HTML, Virtual machines
 
 	<table>
-		</tr>
-			<td style="border:0px!important;">
+		</tr style="border:0px!important;">
+			<td >
 				Contatti 
 			</td>
 			<td>
