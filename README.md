@@ -4,7 +4,7 @@
 - ⌨️ Al momento sto studiando C, C++, React, HTML, Virtual machines
 
 	<table>
-		</tr vertical-align="middle">
+		</tr  style="vertical-align: middle">
 			<td>
 				<a href="https://www.linkedin.com/in/guido-meoli/" target=”_blank”>
 					<img src="./icons/linkedin.png" alt="Linkedin logo" width="25" height="25">
