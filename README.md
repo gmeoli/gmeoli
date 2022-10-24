@@ -1,22 +1,38 @@
-# 👉🏻 Benvenuti! 👈🏻
-- 👋 Ciao! Sono Guido Meoli (aka gmeoli)
-- 🖥 Attualmente sono uno studente della LUISS - Ecole42 in Roma
-- ⌨️ Al momento sto studiando C, C++, React, HTML, Virtual machines
+<p align="right">
+	<img alt="guido's visitors" src="https://komarev.com/ghpvc/?username=gmeoli&&style=flat-square" />
+	<img alt="guido's followers" src="https://img.shields.io/github/followers/gmeoli?color=blue" />
+</p>
 
-	<table>
-		</tr  style="vertical-align: middle">
-			<td>
-				<a href="https://www.linkedin.com/in/guido-meoli/" target=”_blank”>
-					<img src="./icons/linkedin.png" alt="Linkedin logo" width="25" height="25">
-				</a>
-			</td>
-			<td>
-				<a href="mailto:guidomeoli94@gmail.com">
-					<img src="./icons/gmail.png" alt="Gmail logo" width="25" height="25">
-				</a>
-			</td>
-		</tr>
-	</table>
+# Benvenuti <img src="https://raw.githubusercontent.com/appinha/appinha/main/img/Hi.gif" width="30px">
+
+### Grazie della visita! 😄
+
+Sono un learner autodidatta con ottime capacità di lavorare in team ed autonomamente 🙏 ed attualmente sono un allievo della scuola Ecole42 - LUISS nella sede di Roma.
+<p>Il mio obiettivo attuale è approfondire le conoscenze in software engineering ed avere un impatto su tutto ciò che mi circonda attraverso la mia determinazione, innovazione e varie soluzioni.</p>
+
+Ho vari interessi ed hobby:
+* 🌎   viaggiare
+* ⛰️   avventura e montagna
+* 🎧🎼 musica (farla ed ascoltarla)
+* ⚽🏀 sport
+* 🐾   animali
+
+... imparare sempre qualcosa di nuovo !
+
+<p align="center">
+	<a href="mailto:guidomeoli94@gmail.com">
+		<img alt="Ask Me Anything" src="https://img.shields.io/badge/-Ask_me_anything-blueviolet?style=flat&logo=Gmail&logoColor=white&link=mailto:guidomeoli94@gmail.com" />
+	</a>
+	<span> * </span>
+	<a href="https://www.linkedin.com/in/appinha/">
+		<img alt="Linkedin Profile" src="https://img.shields.io/badge/-Linkedin_Profile-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guido-meoli/" />
+	</a>
+	<span> * </span>
+	<a href="https://profile.intra.42.fr/gmeoli">
+		<img alt="Profile at École 42" src="https://img.shields.io/badge/-gmeoli_@_42-ff69b4?style=flat&logoColor=white&link=https://profile.intra.42.fr/gmeoli" />
+	</a>
+</p>
+
 <div align="center">
 	<table>
 		<tr>
@@ -53,5 +69,3 @@
 	
 	
 </div>
-
-![Profile views counter](https://komarev.com/ghpvc/?username=gmeoli&&style=flat-square)
