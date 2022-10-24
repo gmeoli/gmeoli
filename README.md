@@ -56,7 +56,7 @@ Ho vari interessi ed hobby:
 			<b>My 42 stats</b></br>
 		</tr>
 		<tr>
-			<a href="https://github.com/ripa001">
+			<a href="https://github.com/gmeoli">
 				<img src="https://badge42.vercel.app/api/v2/cl9k332j900450hjilmw0yxxe/stats?cursusId=21&coalitionId=124" alt="gmeoli's 42 stats" />
 			</a>
 		</tr>
