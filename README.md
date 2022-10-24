@@ -24,7 +24,7 @@ Ho vari interessi ed hobby:
 		<img alt="Ask Me Anything" src="https://img.shields.io/badge/-Ask_me_anything-blueviolet?style=flat&logo=Gmail&logoColor=white&link=mailto:guidomeoli94@gmail.com" />
 	</a>
 	<span> * </span>
-	<a href="https://www.linkedin.com/in/appinha/">
+	<a href="https://www.linkedin.com/in/guido-meoli/">
 		<img alt="Linkedin Profile" src="https://img.shields.io/badge/-Linkedin_Profile-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guido-meoli/" />
 	</a>
 	<span> * </span>
