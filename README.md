@@ -23,11 +23,11 @@ Ho vari interessi ed hobby:
 	<a href="mailto:guidomeoli94@gmail.com">
 		<img alt="Ask Me Anything" src="https://img.shields.io/badge/-Ask_me_anything-blueviolet?style=flat&logo=Gmail&logoColor=white&link=mailto:guidomeoli94@gmail.com" />
 	</a>
-	<span> - </span>
+	<span> * </span>
 	<a href="https://www.linkedin.com/in/guido-meoli/">
 		<img alt="Linkedin Profile" src="https://img.shields.io/badge/-Linkedin_Profile-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guido-meoli/" />
 	</a>
-	<span> - </span>
+	<span> * </span>
 	<a href="https://profile.intra.42.fr/users/gmeoli">
 		<img alt="Profile at École 42" src="https://img.shields.io/badge/-gmeoli_@_42-ff69b4?style=flat&logoColor=white&link=https://profile.intra.42.fr/users/gmeoli" />
 	</a>
