@@ -8,7 +8,10 @@
 ### Grazie della visita! 😄
 
 Sono un learner autodidatta con ottime capacità di lavorare in team ed autonomamente 🙏 ed attualmente sono un allievo della scuola Ecole42 - LUISS nella sede di Roma.
-<p>Il mio obiettivo attuale è approfondire le conoscenze in software engineering ed avere un impatto su tutto ciò che mi circonda attraverso la mia determinazione, innovazione e varie soluzioni.</p>
+
+<p>
+Il mio obiettivo attuale è approfondire le conoscenze in software engineering ed avere un impatto su tutto ciò che mi circonda attraverso la mia determinazione, innovazione e varie soluzioni.
+</p>
 
 Ho vari interessi ed hobby:
 * 🌎   viaggiare
