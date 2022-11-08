@@ -22,7 +22,7 @@ Ho vari interessi ed hobby:
 * ⚽🏀 sport
 * 🐾   animali
 
-... imparare sempre qualcosa di nuovo !
+... incapace di smettere di incuriosirsi e scoprire il 'perché' delle cose!
 
 <p align="center">
 	<a href="mailto:guidomeoli94@gmail.com">
