@@ -20,7 +20,6 @@ Ho vari interessi ed hobby:
 * ⛰️   avventura e montagna
 * 🎧🎼 musica (farla ed ascoltarla)
 * ⚽🏀 sport
-* 🐾   animali
 
 ... incapace di smettere di incuriosirsi e scoprire il 'perché' delle cose!
 
