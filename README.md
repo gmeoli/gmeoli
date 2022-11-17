@@ -12,7 +12,10 @@
 Sono un learner autodidatta con ottime capacità di lavorare in team ed autonomamente 🙏 ed attualmente sono un allievo della scuola Ecole42 - LUISS nella sede di Roma.
 
 <p>
-Il mio obiettivo attuale è approfondire le conoscenze in software engineering ed avere un impatto su tutto ciò che mi circonda attraverso la mia determinazione, innovazione e varie soluzioni.
+Romano, classe '94, sono un learner autodidatta con ottime capacità di lavorare in team ed autonomamente ed attualmente sono un allievo della scuola Ecole42 - LUISS nella sede di Roma.
+Bagagli pronti se si dovesse presentare l'occasione!
+
+Ho cominciato a lavorare prima ancora di terminare il percorso liceale, quindi all'età di 18 anni mi sono cimentato nella mia prima esperienza lavorativa e, dopo svariati lavori ed esperienze di crescita professionale/personale, mi sono stabilito un nuovo obiettivo: approfondire le conoscenze in software engineering ed avere un impatto su tutto ciò che mi circonda attraverso la mia determinazione, innovazione e varie soluzioni.
 </p>
 
 Ho vari interessi ed hobby:
