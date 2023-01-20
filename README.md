@@ -9,8 +9,6 @@
 
 ### Grazie della visita! 😄
 
-Sono un learner autodidatta con ottime capacità di lavorare in team ed autonomamente 🙏 ed attualmente sono un allievo della scuola Ecole42 - LUISS nella sede di Roma.
-
 <p>
 Romano, classe '94, sono un learner autodidatta con ottime capacità di lavorare in team ed autonomamente ed attualmente sono un allievo della scuola Ecole42 - LUISS nella sede di Roma.<br>
 Bagagli pronti se si dovesse presentare l'occasione!
