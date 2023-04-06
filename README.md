@@ -19,8 +19,8 @@ Ho cominciato a lavorare prima ancora di terminare il percorso liceale, quindi a
 Ho vari interessi ed hobby:
 * 🌎   viaggiare
 * ⛰️   avventura e montagna
-* 🎧🎼 musica (farla ed ascoltarla)
-* ⚽🏀 sport
+* 🎧🎼🪘 musica (farla ed ascoltarla)
+* 🏀🏓🛹🏋️ sport
 
 ... incapace di smettere di incuriosirsi e scoprire il 'perché' delle cose!
 
